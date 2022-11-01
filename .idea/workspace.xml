@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="580ae3f8-7279-48e5-8da9-ca9db9873ea4" name="Changes" comment="" />
+    <list default="true" id="580ae3f8-7279-48e5-8da9-ca9db9873ea4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +57,7 @@
       <updated>1667316790885</updated>
       <workItem from="1667316792891" duration="126000" />
       <workItem from="1667316958905" duration="40000" />
-      <workItem from="1667317043362" duration="329000" />
+      <workItem from="1667317043362" duration="1925000" />
     </task>
     <servers />
   </component>
